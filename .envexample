@@ -1,0 +1,4 @@
+NODE_ENV=production
+PORT=3000
+CORS_ORIGIN=https://yourdomain.com
+RATE_LIMIT_WINDOW_MS=900000
